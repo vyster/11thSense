@@ -1,0 +1,21 @@
+Dream11
+Team11 
+FanFight, Gamezy
+PlayerzPot
+
+Most of these use internal recommendation engines that score players and suggest playing XIs based on form, pitch, opponent, and average points/game.
+
+CricViz – UK-based, one of the most advanced in cricket analytics. Uses models like Most Valuable Player, Expected Wickets, Match Impact Score, etc.
+
+Stats Perform – Offers deep cricket insights for broadcasters and teams using AI/ML.
+
+Cricket-21 – Works with predictive data modeling for strategy in T20 leagues.
+
+CricMetric – Provides advanced matchup data and projections.
+
+DeepMind x ECB (experimental) – Worked on modeling cricket decisions using reinforcement learning.
+
+Cricsheet – Provides ball-by-ball datasets for T20/IPL, often used for building prediction models.
+
+Kaggle Cricket ML Projects – Like team score prediction, win probability, or Dream11 team optimization using machine learning.
+
